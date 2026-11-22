@@ -1,10 +1,10 @@
 # Server-Side Request Forgery (SSRF) — Lab Report
 
-**Author:** [Your Name]
+**Author:**Muhammad Wasiq
 **Environment:** PortSwigger Web Security Academy (authorized training labs)
 **Scope:** 5 SSRF labs — Basic (local server), Basic (back-end system), Blacklist bypass, Open-redirect bypass, Whitelist bypass (Expert)
 **Tools used:** Burp Suite (Proxy, Repeater)
-**Date:** [Date]
+
 
 > Note: These are PortSwigger's own deliberately vulnerable training applications, tested with authorization inherent to the platform. This report documents methodology and findings in a professional pentest-report format for portfolio and learning purposes — it is not a client engagement.
 
