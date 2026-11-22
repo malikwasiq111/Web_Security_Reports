@@ -1,10 +1,9 @@
 # Web Cache Deception — Lab Report
 
-**Author:** [Your Name]
+**Author:** Muhammad Wasiq
 **Environment:** PortSwigger Web Security Academy (authorized training labs)
 **Scope:** 5 web cache deception labs — Path mapping, Path delimiters, Origin server normalization, Cache server normalization, Exact-match (file name) cache rules
 **Tools used:** Burp Suite (Proxy, Repeater, Intruder, Param Miner extension)
-**Date:** [Date]
 
 > Note: These are PortSwigger's own deliberately vulnerable training applications. This report documents methodology and findings in a professional pentest-report format for portfolio and learning purposes — it is not a client engagement.
 
